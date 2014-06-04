@@ -1,0 +1,427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: impressivCard v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-28 07:35:52+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: functions.php:1741
+#@ impressivcard
+msgid "SEND"
+msgstr "SEND"
+
+#: functions.php:90
+#@ impressivcard
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:158
+#@ impressivcard
+msgid "Custom field updated."
+msgstr ""
+
+#: functions.php:160
+#@ impressivcard
+msgid "Custom field deleted."
+msgstr ""
+
+#: functions.php:176
+#@ impressivcard
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: functions.php:118
+#@ impressivcard
+msgid "Portfolio Item"
+msgstr ""
+
+#: functions.php:120
+#@ impressivcard
+msgid "Add New Item"
+msgstr ""
+
+#: functions.php:417
+#: functions.php:427
+#@ impressivcard
+msgid "Departments"
+msgstr ""
+
+#: functions.php:193
+#: functions.php:418
+#@ impressivcard
+msgid "Department"
+msgstr ""
+
+#: functions.php:420
+#@ impressivcard
+msgid "All Departments"
+msgstr ""
+
+#: functions.php:421
+#@ impressivcard
+msgid "Parent Department"
+msgstr ""
+
+#: functions.php:422
+#@ impressivcard
+msgid "Parent Department:"
+msgstr ""
+
+#: functions.php:424
+#@ impressivcard
+msgid "Update Department"
+msgstr ""
+
+#: functions.php:426
+#@ impressivcard
+msgid "New Department Name"
+msgstr ""
+
+#: functions.php:195
+#: functions.php:335
+#@ impressivcard
+msgid "Short Description"
+msgstr ""
+
+#: functions.php:370
+#@ impressivcard
+msgid "Portfolio Item Details"
+msgstr ""
+
+#: functions.php:608
+#: functions.php:1139
+#@ impressivcard
+msgid "Title:"
+msgstr ""
+
+#: functions.php:883
+#@ impressivcard
+msgid "all"
+msgstr ""
+
+#: functions.php:423
+#@ impressivcard
+msgid "Edit"
+msgstr ""
+
+#: functions.php:192
+#@ impressivcard
+msgid "Featured Image"
+msgstr ""
+
+#: functions.php:618
+#: functions.php:1149
+#@ impressivcard
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:117
+#@ impressivcard
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:119
+#: functions.php:425
+#@ impressivcard
+msgid "Add New"
+msgstr ""
+
+#: functions.php:121
+#@ impressivcard
+msgid "Edit Item"
+msgstr ""
+
+#: functions.php:122
+#@ impressivcard
+msgid "New Item"
+msgstr ""
+
+#: functions.php:123
+#@ impressivcard
+msgid "View Item"
+msgstr ""
+
+#: functions.php:124
+#: functions.php:419
+#@ impressivcard
+msgid "Search"
+msgstr ""
+
+#: functions.php:125
+#@ impressivcard
+msgid "No items found."
+msgstr ""
+
+#: functions.php:126
+#@ impressivcard
+msgid "No items found in Trash."
+msgstr ""
+
+#: functions.php:156
+#, php-format
+#@ impressivcard
+msgid "Updated. <a target=\"_blank\" href=\"%s\">View</a>"
+msgstr ""
+
+#: functions.php:162
+#@ impressivcard
+msgid "Item updated."
+msgstr ""
+
+#: functions.php:165
+#, php-format
+#@ impressivcard
+msgid "Item restored to revision from %s"
+msgstr ""
+
+#: functions.php:167
+#, php-format
+#@ impressivcard
+msgid "Published. <a target=\"_blank\" href=\"%s\">View</a>"
+msgstr ""
+
+#: functions.php:169
+#@ impressivcard
+msgid "Item saved."
+msgstr ""
+
+#: functions.php:171
+#, php-format
+#@ impressivcard
+msgid "Item submitted. <a target=\"_blank\" href=\"%s\">Preview Item</a>"
+msgstr ""
+
+#: functions.php:173
+#, php-format
+#@ impressivcard
+msgid "Item scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s\">Preview Item</a>"
+msgstr ""
+
+#: functions.php:178
+#, php-format
+#@ impressivcard
+msgid "Item draft updated. <a target=\"_blank\" href=\"%s\">Preview Item</a>"
+msgstr ""
+
+#: functions.php:191
+#@ impressivcard
+msgid "Title"
+msgstr ""
+
+#: functions.php:194
+#: functions.php:308
+#@ impressivcard
+msgid "Type"
+msgstr ""
+
+#: functions.php:244
+#: functions.php:326
+#@ impressivcard
+msgid "Lightbox"
+msgstr ""
+
+#: functions.php:248
+#: functions.php:318
+#@ impressivcard
+msgid "Standard"
+msgstr ""
+
+#: functions.php:344
+#@ impressivcard
+msgid "SEO Description"
+msgstr ""
+
+#: functions.php:353
+#@ impressivcard
+msgid "SEO Keywords"
+msgstr ""
+
+#: functions.php:459
+#@ impressivcard
+msgid "Show All"
+msgstr ""
+
+#: functions.php:552
+#@ impressivcard
+msgid "Pages"
+msgstr ""
+
+#: functions.php:554
+#@ impressivcard
+msgid "Use this widget area for custom theme widgets."
+msgstr ""
+
+#: functions.php:569
+#@ impressivcard
+msgid "00 - Portfolio"
+msgstr ""
+
+#: functions.php:570
+#@ impressivcard
+msgid "Portfolio Page"
+msgstr ""
+
+#: functions.php:678
+#: functions.php:1185
+#@ impressivcard
+msgid "X-Axis:"
+msgstr ""
+
+#: functions.php:688
+#: functions.php:1195
+#@ impressivcard
+msgid "Y-Axis:"
+msgstr ""
+
+#: functions.php:698
+#: functions.php:1205
+#@ impressivcard
+msgid "Z-Axis:"
+msgstr ""
+
+#: functions.php:708
+#: functions.php:1215
+#@ impressivcard
+msgid "Radius:"
+msgstr ""
+
+#: functions.php:718
+#: functions.php:1225
+#@ impressivcard
+msgid "Angle:"
+msgstr ""
+
+#: functions.php:728
+#: functions.php:1235
+#@ impressivcard
+msgid "Scale:"
+msgstr ""
+
+#: functions.php:738
+#: functions.php:1245
+#@ impressivcard
+msgid "Rotate:"
+msgstr ""
+
+#: functions.php:748
+#: functions.php:1255
+#@ impressivcard
+msgid "Rotate X-Axis:"
+msgstr ""
+
+#: functions.php:758
+#: functions.php:1265
+#@ impressivcard
+msgid "Rotate Y-Axis:"
+msgstr ""
+
+#: functions.php:768
+#: functions.php:1275
+#@ impressivcard
+msgid "Rotate Z-Axis:"
+msgstr ""
+
+#: functions.php:994
+#@ impressivcard
+msgid "SEE PROJECT DETAILS"
+msgstr ""
+
+#: functions.php:1104
+#@ impressivcard
+msgid "00 - Custom Page"
+msgstr ""
+
+#: functions.php:1105
+#@ impressivcard
+msgid "Resume, Contact, About Me"
+msgstr ""
+
+#: functions.php:1727
+#@ impressivcard
+msgid "SUBJECT"
+msgstr ""
+
+#: functions.php:1727
+#@ impressivcard
+msgid "Subject."
+msgstr ""
+
+#: functions.php:1738
+#@ impressivcard
+msgid "Contact form message from your"
+msgstr ""
+
+#: functions.php:1738
+#@ impressivcard
+msgid "site"
+msgstr ""
+
+#: functions.php:1741
+#@ impressivcard
+msgid "NAME"
+msgstr ""
+
+#: functions.php:1741
+#@ impressivcard
+msgid "What is your name?"
+msgstr ""
+
+#: functions.php:1741
+#@ impressivcard
+msgid "E-MAIL"
+msgstr ""
+
+#: functions.php:1741
+#@ impressivcard
+msgid "So i can get back to you."
+msgstr ""
+
+#: functions.php:1741
+#@ impressivcard
+msgid "MESSAGE"
+msgstr ""
+
+#: functions.php:1741
+#@ impressivcard
+msgid "And your message to me..."
+msgstr ""
+
+#: header.php:107
+#: single-portfolio.php:64
+#, php-format
+#@ impressivcard
+msgid "Page %s"
+msgstr ""
+
+#: single-portfolio.php:219
+#: single-portfolio.php:240
+#@ impressivcard
+msgid "&lt;"
+msgstr ""
+
+#: single-portfolio.php:221
+#: single-portfolio.php:242
+#@ impressivcard
+msgid "&#194;"
+msgstr ""
+
+#: single-portfolio.php:223
+#: single-portfolio.php:244
+#@ impressivcard
+msgid "="
+msgstr ""
+

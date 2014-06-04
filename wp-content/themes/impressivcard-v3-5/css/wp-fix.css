@@ -1,0 +1,17 @@
+#header nav ul a:link,
+#header nav ul a:visited
+{
+	background-color: transparent;
+}
+
+.portfolio-nav a
+{
+	margin-left: 4px;
+}
+
+.media-box .mask .ico
+{
+	background: #000;
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+}
